@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>person_select_same_date_for_start_end</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1b9173b-627c-4854-817b-4cc81169c43c</testCaseGuid>
+</TestCaseEntity>

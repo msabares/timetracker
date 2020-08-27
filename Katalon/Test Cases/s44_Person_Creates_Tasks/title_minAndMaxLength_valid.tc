@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the validation for the Title field's minimum and maximum character length.</description>
+   <name>title_minAndMaxLength_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce2e1f29-958d-4833-8f9b-03c2d1a592ac</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3dd35a7b-40cd-4f1d-9f70-c947243a1e1d</id>
+      <masked>false</masked>
+      <name>title_value</name>
+   </variable>
+</TestCaseEntity>

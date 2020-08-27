@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>category_nameLength_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e60291a8-a28b-4df5-bbe7-471c971bb7ae</testCaseGuid>
+   <variable>
+      <defaultValue>'AB'</defaultValue>
+      <description></description>
+      <id>df94f918-351b-40f7-8bf9-22d0dc665cad</id>
+      <masked>false</masked>
+      <name>valid_name_min</name>
+   </variable>
+   <variable>
+      <defaultValue>'Normal Length Category'</defaultValue>
+      <description></description>
+      <id>210c1c29-94f4-432e-b42d-b6913eaec9f5</id>
+      <masked>false</masked>
+      <name>valid_name_normal</name>
+   </variable>
+</TestCaseEntity>

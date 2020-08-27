@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Task Long Name Cutoff Pass</name>
+   <tag></tag>
+   <comment>check number of characters get back is less than the task title</comment>
+   <testCaseGuid>4712f177-59ac-473d-a9c6-90bbdb10f676</testCaseGuid>
+</TestCaseEntity>

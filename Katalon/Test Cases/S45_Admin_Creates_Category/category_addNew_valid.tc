@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a new Category, verify confirmation modal displays proper information, and that Category modal closes.  Upon reopening modal, ensure that new Category is listed in the Parent Category dropdown, in appropriate index.
+Note that this only works with a clean set of fixtures, and if spinner_testCase runs prior</description>
+   <name>category_addNew_valid</name>
+   <tag></tag>
+   <comment>Going back and checking that the newly created category is in fact present in the parent drop down
+verify previously added category was added</comment>
+   <testCaseGuid>6625af74-2c22-4df0-ac2d-fdc16409b688</testCaseGuid>
+   <variable>
+      <defaultValue>'New Category'</defaultValue>
+      <description></description>
+      <id>be184624-44c9-4160-b2ae-f7db49bffde9</id>
+      <masked>false</masked>
+      <name>valid_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'A new category for SPFA'</defaultValue>
+      <description></description>
+      <id>0633bdbd-fcf7-4ad3-8d4e-f00ae82584bd</id>
+      <masked>false</masked>
+      <name>valid_description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Category Created'</defaultValue>
+      <description></description>
+      <id>72c4f584-69e9-4f4c-b5b3-d8fdbe126c10</id>
+      <masked>false</masked>
+      <name>confirm_header</name>
+   </variable>
+   <variable>
+      <defaultValue>'Name: New Category'</defaultValue>
+      <description></description>
+      <id>bf4a1e97-073c-4b9f-a9ea-34a4283adf94</id>
+      <masked>false</masked>
+      <name>confirm_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Description: A new category for SPFA'</defaultValue>
+      <description></description>
+      <id>1e710ded-eb01-4ee6-aecf-10808a433988</id>
+      <masked>false</masked>
+      <name>confirm_description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Parent Category: No Parent Category'</defaultValue>
+      <description></description>
+      <id>a30a9cd2-932f-48d0-8fc9-f39a0d4fb84b</id>
+      <masked>false</masked>
+      <name>confirm_category</name>
+   </variable>
+</TestCaseEntity>

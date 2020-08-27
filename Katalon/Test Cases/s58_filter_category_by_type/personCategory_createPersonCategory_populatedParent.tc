@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test confirmation messaging when creating a Person Category with a populated parent category</description>
+   <name>personCategory_createPersonCategory_populatedParent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0f84402-6a8a-4ef7-a595-733d7e148354</testCaseGuid>
+   <variable>
+      <defaultValue>'CST'</defaultValue>
+      <description></description>
+      <id>ece7de4e-e07d-4f53-ade8-ad5216874769</id>
+      <masked>false</masked>
+      <name>valid_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Computer System Tech'</defaultValue>
+      <description></description>
+      <id>15cc7b14-8a18-4fcd-95fd-0f806b3c2743</id>
+      <masked>false</masked>
+      <name>valid_desc</name>
+   </variable>
+   <variable>
+      <defaultValue>6</defaultValue>
+      <description></description>
+      <id>d52d73d0-b6e9-47f8-9200-3e4af8e92f3f</id>
+      <masked>false</masked>
+      <name>valid_parentIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>'A new Member Grouping has been created!'</defaultValue>
+      <description></description>
+      <id>65e9d7a1-8e0a-4f3e-bd5c-ce8b20138050</id>
+      <masked>false</masked>
+      <name>conf_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Name: CST'</defaultValue>
+      <description></description>
+      <id>8e071bd5-cfd0-4793-980f-a13542c5c11e</id>
+      <masked>false</masked>
+      <name>conf_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Description: Computer System Tech'</defaultValue>
+      <description></description>
+      <id>a80917ba-f8de-4f1d-973b-1736a64b3156</id>
+      <masked>false</masked>
+      <name>conf_desc</name>
+   </variable>
+   <variable>
+      <defaultValue>'Parent Category: Saskatoon Campus'</defaultValue>
+      <description></description>
+      <id>8dc8a2fe-1a7c-4ba1-94c5-1422eec5d4f8</id>
+      <masked>false</masked>
+      <name>conf_parent</name>
+   </variable>
+</TestCaseEntity>

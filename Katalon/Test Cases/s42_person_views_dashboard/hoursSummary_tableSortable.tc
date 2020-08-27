@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the table is sorted alphabetically by default and the sort clicks work and presist when changing weeks.</description>
+   <name>hoursSummary_tableSortable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25b3e409-0bea-49df-bc08-c44846cefb56</testCaseGuid>
+   <variable>
+      <defaultValue>['Grading', 'Meetings', 'Prep', 'Teaching']</defaultValue>
+      <description></description>
+      <id>0fc70461-ce5d-46ce-a2af-b31b0b271e6d</id>
+      <masked>false</masked>
+      <name>currentWeek_sortedListAlpha</name>
+   </variable>
+   <variable>
+      <defaultValue>['Teaching', 'Prep', 'Meetings', 'Grading']</defaultValue>
+      <description></description>
+      <id>132d6ffb-7ab9-4a50-8bad-08cd76cd5287</id>
+      <masked>false</masked>
+      <name>currentWeek_sortedListAlphaRev</name>
+   </variable>
+   <variable>
+      <defaultValue>['1', '4', '6', '8']</defaultValue>
+      <description></description>
+      <id>132d6ffb-7ab9-4a50-8bad-08cd76cd5287</id>
+      <masked>false</masked>
+      <name>currentWeek_sortedListNumer</name>
+   </variable>
+   <variable>
+      <defaultValue>['8', '6', '4', '1']</defaultValue>
+      <description></description>
+      <id>132d6ffb-7ab9-4a50-8bad-08cd76cd5287</id>
+      <masked>false</masked>
+      <name>currentWeek_sortedListNumerRev</name>
+   </variable>
+</TestCaseEntity>

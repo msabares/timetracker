@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PersonEmailAddress_format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>262be943-6d26-4bcc-9f16-4645bd3a41ab</testCaseGuid>
+   <variable>
+      <defaultValue>['bob@saskpolytech.com', 'timmy123@hotmail.com', 'tom&amp;jerry@gmail.com']</defaultValue>
+      <description></description>
+      <id>a72bac65-0248-4831-a76d-5e9df9b8d653</id>
+      <masked>false</masked>
+      <name>ValidEmailArray</name>
+   </variable>
+   <variable>
+      <defaultValue>['bob@test', 'Robert', 'Edger@Wright', '@saskpolytech.ca', 'a@b.c']</defaultValue>
+      <description></description>
+      <id>ec75db3a-a82c-47ea-a452-e02753d0c607</id>
+      <masked>false</masked>
+      <name>InvalidEmailArray</name>
+   </variable>
+   <variable>
+      <defaultValue>['', ' ']</defaultValue>
+      <description></description>
+      <id>c2f55476-2fdb-4e17-93be-d7caeb069326</id>
+      <masked>false</masked>
+      <name>EmptyEmailArray</name>
+   </variable>
+   <variable>
+      <defaultValue>'M'</defaultValue>
+      <description></description>
+      <id>288461ca-c395-46ce-91ab-b36ea8b337b8</id>
+      <masked>false</masked>
+      <name>RepeatingEmailLength</name>
+   </variable>
+</TestCaseEntity>

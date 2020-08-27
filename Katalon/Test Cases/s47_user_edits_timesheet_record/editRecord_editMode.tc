@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>editRecord_editMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ba124e9-9586-41ba-842c-4bb4d657a980</testCaseGuid>
+   <variable>
+      <defaultValue>['A', 'B', 'C', 'Conference', 'D', 'Development', 'E', 'F', 'G', 'Grading', 'H', 'Here is another long task name, but in actual words and not just M\'s', 'I', 'J', 'K', 'L', 'M', 'Meetings', 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM', 'N', 'O', 'P', 'Plumbing', 'Prep', 'Q', 'R', 'S', 'T', 'Teaching', 'U', 'V', 'Vacation', 'W', 'X', 'Y', 'Z']</defaultValue>
+      <description></description>
+      <id>afdf498d-3d44-423f-802a-6f1ce54addfa</id>
+      <masked>false</masked>
+      <name>task_list</name>
+   </variable>
+</TestCaseEntity>

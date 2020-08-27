@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>category_descriptionLength_invalid</name>
+   <tag></tag>
+   <comment>Test that Description can have a max of 255 character length in creation process
+Click create Category > Click Category descripotion > Enter M 256 times > verify error messgae present</comment>
+   <testCaseGuid>ef22b135-50a6-488c-b926-280212af0c7f</testCaseGuid>
+</TestCaseEntity>

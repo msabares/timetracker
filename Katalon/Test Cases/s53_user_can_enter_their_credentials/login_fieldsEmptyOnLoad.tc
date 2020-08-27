@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_fieldsEmptyOnLoad</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb4bc963-8aa1-4897-a332-837f30802996</testCaseGuid>
+</TestCaseEntity>

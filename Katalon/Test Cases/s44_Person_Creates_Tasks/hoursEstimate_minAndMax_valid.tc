@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test valid boundary cases for validation</description>
+   <name>hoursEstimate_minAndMax_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfbb32c1-3dee-4fa1-843f-9ac02e637599</testCaseGuid>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>b848ed54-c97d-4a48-8ebb-5041fd070642</id>
+      <masked>false</masked>
+      <name>input_min</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000000'</defaultValue>
+      <description></description>
+      <id>e6998983-58c1-41e6-810a-743370570090</id>
+      <masked>false</masked>
+      <name>input_max</name>
+   </variable>
+</TestCaseEntity>

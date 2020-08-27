@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>category_nameSpecialCharacters_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1df8cff-2492-4175-94f6-a87c855d5d09</testCaseGuid>
+   <variable>
+      <defaultValue>'Valid Category Name'</defaultValue>
+      <description></description>
+      <id>08a527b8-e225-4770-a7b9-3c2fafb03e3f</id>
+      <masked>false</masked>
+      <name>valid_name_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'15 Valid Names'</defaultValue>
+      <description></description>
+      <id>c7ee41d2-766e-4b93-bccb-a3e5f95f9f95</id>
+      <masked>false</masked>
+      <name>valid_name_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Spaces Are Allowed'</defaultValue>
+      <description></description>
+      <id>37c02a2e-0ec3-48c9-abec-3372bbdc9c31</id>
+      <masked>false</masked>
+      <name>valid_name_3</name>
+   </variable>
+</TestCaseEntity>

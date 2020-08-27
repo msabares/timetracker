@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logout_invalidToken</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9c721f6-64be-42ec-8dc2-1fe9d1c804ca</testCaseGuid>
+   <variable>
+      <defaultValue>['eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1ODYyOTA2MDYsImV4cCI6MTU4NjI5NDIwNiwicm9sZXMiOlsiUk9MRV9BRE1JTiIsIlJPTEVfVVNFUiJdLCJ1c2VybmFtZSI6ImJzbWl0aEBob3RtYWlsLmNvbSIsInBlcnNvbiI6IlwvYXBpXC9wZW9wbGVcLzQwNiJ9.pxAwmvHOEHb1h_wbxek6KDTdneisIJEm5mv32mzucJnu6JWaQDIB4CgNf1fLsBHgtB34E66uUSQo8gbgvize88SBYESpUEG-RtU4YBA8pt3GH5edjh9n-S8HREq3H_8MNhsWaR_0AkRInZZm6249PJVKsbkIQBAyaLz17OyZIW47_drB0P2CMvlzE46La2JE-pThIi1fPq_qp9ItUH1BFl0wPFUgm2_74E0Uh40RsmXmyonMEPMmRuRh-rSwfmBjOKV1GSUCVoBBP18kWh3_fVlGrCvtjO5R4cPIqLeSGMvfMr0Kh2mv6Xjeaala5ejgKTEC6nI_5oitJhEZpW8N-9y-B_fNF9NXZI6MtOODct5-rQOe84tPXzQIjl2TYXeXH08zXDTJmoDh5roZ2o2ub0CmJHRecG8xvZzGP1ZO0Xz0SdCyTxzop3uSL-BrztOcvIVDXoxG6acOmK8CQeQwq-y2X-tmDtgYrQlHEHridTWsm8NAhS3mOqq-0DwvyQhqwvAOKJYgf1ZBTaaE8jz3_CwCa6vluk2Pm3-ZJRqqBimdIyIoqn0x81IBmUiV99-Sr0rVpljdTrMg5lTjEJ8FfoRK6zdmvNiTTo7QKpQQ7fLgJOYJXiucpK5TK2Zd2Z06g2TjdKCDTmolkKkQbtzIzAXCR45GYt5qgLw6Ms5Agn8', '', 'HelloWorld']</defaultValue>
+      <description></description>
+      <id>c0076683-486f-4717-b536-5d88cc1e2e09</id>
+      <masked>false</masked>
+      <name>badTokenList</name>
+   </variable>
+</TestCaseEntity>

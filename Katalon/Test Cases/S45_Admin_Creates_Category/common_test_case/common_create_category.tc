@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Common methods to open browser and navigate to Category Create modal</description>
+   <name>common_create_category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d52d87df-7c53-47b0-9e49-16e55b82e57c</testCaseGuid>
+</TestCaseEntity>

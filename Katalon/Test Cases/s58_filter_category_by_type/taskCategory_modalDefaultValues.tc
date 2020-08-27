@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>taskCategory_modalDefaultValues</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07b028e0-5388-4d95-b4b1-38705e2768c3</testCaseGuid>
+   <variable>
+      <defaultValue>'Create Work Assignment'</defaultValue>
+      <description></description>
+      <id>f6c20464-5007-4fa1-9ecc-3c55af406c9c</id>
+      <masked>false</masked>
+      <name>header_text</name>
+   </variable>
+   <variable>
+      <defaultValue>['Admin Tasks', 'Assigned Contact Hours', 'Complementary Function', 'Curriculum Development', 'NonInstructional Assignment', 'Projects', 'Student Contact']</defaultValue>
+      <description></description>
+      <id>36b7de44-8ad0-4c23-8eb4-b281770878cf</id>
+      <masked>false</masked>
+      <name>valid_categories</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test validation for invalid boundary cases of Title length</description>
+   <name>title_minAndMaxLength_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78828a3a-a28c-4074-b4ad-6158aa8574b0</testCaseGuid>
+   <variable>
+      <defaultValue>'Title must be between 1 and 255 characters long.'</defaultValue>
+      <description></description>
+      <id>0b5a1c02-daf5-4e90-ae8a-68b925e917a7</id>
+      <masked>false</masked>
+      <name>title_error</name>
+   </variable>
+   <variable>
+      <defaultValue>' '</defaultValue>
+      <description></description>
+      <id>358bdee9-116d-407f-848b-bb4401f34642</id>
+      <masked>false</masked>
+      <name>title_value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86960aef-3df9-4cf4-858a-f032d647e074</id>
+      <masked>false</masked>
+      <name>input_results</name>
+   </variable>
+</TestCaseEntity>

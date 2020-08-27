@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>report2_member_can_navigate_to_report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de0c73bf-6d54-466a-a67b-57e215d6b21b</testCaseGuid>
+   <variable>
+      <defaultValue>'Workload Breakdown Report'</defaultValue>
+      <description></description>
+      <id>d0b8b715-6ca1-488a-a24e-22e292cec842</id>
+      <masked>false</masked>
+      <name>header_text</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please Select a Date Range to view Report'</defaultValue>
+      <description></description>
+      <id>bbb6905b-d96b-4d9e-9428-54b414d2f6eb</id>
+      <masked>false</masked>
+      <name>instruction_text</name>
+   </variable>
+   <variable>
+      <defaultValue>'Name:'</defaultValue>
+      <description></description>
+      <id>47bada64-7771-45fd-a370-fe4336c6dc83</id>
+      <masked>false</masked>
+      <name>lbl_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Program:'</defaultValue>
+      <description></description>
+      <id>e37ab360-3cd5-4b02-88b9-7ced74fc6cd4</id>
+      <masked>false</masked>
+      <name>lbl_program</name>
+   </variable>
+   <variable>
+      <defaultValue>'Employment Status:'</defaultValue>
+      <description></description>
+      <id>d1047200-c76e-4829-9f8f-4be542c9a3cb</id>
+      <masked>false</masked>
+      <name>lbl_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'Weekly Scheduled Hours:'</defaultValue>
+      <description></description>
+      <id>8d17a35e-8ad1-40ea-87ec-b11c74647ded</id>
+      <masked>false</masked>
+      <name>lbl_hours</name>
+   </variable>
+   <variable>
+      <defaultValue>'Issac Flynn'</defaultValue>
+      <description></description>
+      <id>4ad56ef1-bc98-4edd-b08e-cd99c627b9e1</id>
+      <masked>false</masked>
+      <name>txt_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nursing'</defaultValue>
+      <description></description>
+      <id>67abce0b-22ce-4e1c-8e54-b48a092a900f</id>
+      <masked>false</masked>
+      <name>txt_program</name>
+   </variable>
+   <variable>
+      <defaultValue>'part time'</defaultValue>
+      <description></description>
+      <id>32a57a96-88ea-4320-872f-285970443852</id>
+      <masked>false</masked>
+      <name>txt_status</name>
+   </variable>
+   <variable>
+      <defaultValue>'20'</defaultValue>
+      <description></description>
+      <id>e502e474-4f9a-4049-80b1-ef7d58cb854e</id>
+      <masked>false</masked>
+      <name>txt_hours</name>
+   </variable>
+</TestCaseEntity>

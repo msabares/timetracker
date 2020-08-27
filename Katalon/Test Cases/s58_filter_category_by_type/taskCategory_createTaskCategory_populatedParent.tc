@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test confirmation messaging when creating a Task Category with a populated Parent Category</description>
+   <name>taskCategory_createTaskCategory_populatedParent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f963bf7c-af30-415c-a5ee-a0b7a6f28d17</testCaseGuid>
+   <variable>
+      <defaultValue>'Another Temporary Work Assignment'</defaultValue>
+      <description></description>
+      <id>4a094b64-3fb1-41de-8fc0-83d0ec7b03a1</id>
+      <masked>false</masked>
+      <name>valid_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Temporary grouping'</defaultValue>
+      <description></description>
+      <id>a525498e-ee56-4200-a80a-409a97bb3127</id>
+      <masked>false</masked>
+      <name>valid_desc</name>
+   </variable>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>8e9b0956-3184-49ca-8379-100dc6767a82</id>
+      <masked>false</masked>
+      <name>valid_parentIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>'A new Work Assignment has been created!'</defaultValue>
+      <description></description>
+      <id>11ea5bac-203c-48af-b36d-7a6881bdb735</id>
+      <masked>false</masked>
+      <name>conf_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Name: Another Temporary Work Assignment'</defaultValue>
+      <description></description>
+      <id>9a74798e-8a16-45e0-b0e0-bae4cdaa3ba4</id>
+      <masked>false</masked>
+      <name>conf_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Description: Temporary grouping'</defaultValue>
+      <description></description>
+      <id>de931e06-d4ff-4814-b367-ff64f4f7f068</id>
+      <masked>false</masked>
+      <name>conf_desc</name>
+   </variable>
+   <variable>
+      <defaultValue>'Parent Category: NonInstructional Assignment'</defaultValue>
+      <description></description>
+      <id>17d1b597-8492-4f6b-818f-9455f88a6c40</id>
+      <masked>false</masked>
+      <name>conf_parent</name>
+   </variable>
+</TestCaseEntity>

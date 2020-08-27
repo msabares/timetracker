@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the confirmation messaging when creating a Person Category with empty parent</description>
+   <name>personCategory_createPersonCategory_emptyParent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42efee42-db43-400b-b3ad-76d8257153ec</testCaseGuid>
+   <variable>
+      <defaultValue>'Saskatoon Campus'</defaultValue>
+      <description></description>
+      <id>45dfabce-87ee-4654-84ef-0c4f2791cf86</id>
+      <masked>false</masked>
+      <name>valid_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Temporary grouping'</defaultValue>
+      <description></description>
+      <id>a8a755db-70ac-4fc4-a32c-f62de6bbc6e5</id>
+      <masked>false</masked>
+      <name>valid_desc</name>
+   </variable>
+   <variable>
+      <defaultValue>'A new Member Grouping has been created!'</defaultValue>
+      <description></description>
+      <id>0bd4e5e0-e3a2-4ab5-b548-811b589730e4</id>
+      <masked>false</masked>
+      <name>conf_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Category Created'</defaultValue>
+      <description></description>
+      <id>45c9f879-7492-45b8-80a8-c69d67a46a6e</id>
+      <masked>false</masked>
+      <name>conf_header</name>
+   </variable>
+   <variable>
+      <defaultValue>'Name: Saskatoon Campus'</defaultValue>
+      <description></description>
+      <id>4b37b276-f182-497b-9aa9-cd39474470d8</id>
+      <masked>false</masked>
+      <name>conf_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Description: Temporary grouping'</defaultValue>
+      <description></description>
+      <id>96bcdf51-76a7-4612-92b0-df19c38f2353</id>
+      <masked>false</masked>
+      <name>conf_desc</name>
+   </variable>
+   <variable>
+      <defaultValue>'Parent Category: No Parent Category'</defaultValue>
+      <description></description>
+      <id>459a46cc-e957-4f72-be6b-bb1b5621849b</id>
+      <masked>false</masked>
+      <name>conf_parent</name>
+   </variable>
+</TestCaseEntity>

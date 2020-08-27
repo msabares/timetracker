@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test validation for invalid characters used in Title field</description>
+   <name>title_specialCharacters_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f87ef2f-2885-4aca-9f66-548d2ffd8a95</testCaseGuid>
+   <variable>
+      <defaultValue>['Develop*ment', 'Teach @ Home', 'Research &amp; Development', '# of sandwiches', ';)&amp;Smiley']</defaultValue>
+      <description></description>
+      <id>1f89770c-5b5a-436e-86c0-feac0a40dd0b</id>
+      <masked>false</masked>
+      <name>input_values</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click outside of the modal to ensure focus remains on modal</description>
+   <name>category_clickOutsideModal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cea57c61-e3cf-406c-a769-60c7997014f4</testCaseGuid>
+</TestCaseEntity>

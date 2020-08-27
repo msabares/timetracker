@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test validation of category field and no error messages are present</description>
+   <name>category_inputCategoryName_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>260cb2cc-c46c-47ab-99af-06a3e98f8359</testCaseGuid>
+   <variable>
+      <defaultValue>['Admin Tasks', 'Assigned Contact Hours', 'Complementary Function', 'Curriculum Development', 'NonInstructional Assignment', 'Projects', 'Student Contact']</defaultValue>
+      <description></description>
+      <id>888d0be3-3887-4df6-9940-caa6cb395204</id>
+      <masked>false</masked>
+      <name>category_values</name>
+   </variable>
+</TestCaseEntity>

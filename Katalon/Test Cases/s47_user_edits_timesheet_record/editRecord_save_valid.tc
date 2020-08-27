@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>editRecord_save_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79cfc62c-e6f9-42e3-adcc-5f7280b43bf8</testCaseGuid>
+   <variable>
+      <defaultValue>'This is a valid comment'</defaultValue>
+      <description></description>
+      <id>6c98b50a-8ca9-40ef-bf93-74a582e98884</id>
+      <masked>false</masked>
+      <name>newComment</name>
+   </variable>
+   <variable>
+      <defaultValue>'11:00 AM'</defaultValue>
+      <description></description>
+      <id>9eba949c-000a-4e3a-bb4d-18868b7864cb</id>
+      <masked>false</masked>
+      <name>newStartTime</name>
+   </variable>
+   <variable>
+      <defaultValue>'1:00 PM'</defaultValue>
+      <description></description>
+      <id>ae54195f-f1e4-49db-af52-6fd051ad7927</id>
+      <masked>false</masked>
+      <name>newEndTime</name>
+   </variable>
+   <variable>
+      <defaultValue>9</defaultValue>
+      <description></description>
+      <id>4e56a821-ddfe-4098-ada7-355af6a157bf</id>
+      <masked>false</masked>
+      <name>newTaskIndex</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the Create Task modal only displays Task Categories in the Category picker</description>
+   <name>createTask_onlyTaskCategories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21b589a9-c1fa-44bc-bace-b01d25ba7afd</testCaseGuid>
+   <variable>
+      <defaultValue>['Admin Tasks', 'Another Temporary Work Assignment', 'Assigned Contact Hours', 'Complementary Function', 'Curriculum Development', 'NonInstructional Assignment', 'Projects', 'Student Contact', 'Temporary Work Assignment']</defaultValue>
+      <description></description>
+      <id>c6593d82-856c-48cf-82a5-bb716711572b</id>
+      <masked>false</masked>
+      <name>valid_categories</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test validation errors are present if non-existant category is input</description>
+   <name>category_inputCategoryName_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30a28629-d155-4950-98ee-7cccb91b76cb</testCaseGuid>
+   <variable>
+      <defaultValue>'Please select a Category from the list.'</defaultValue>
+      <description></description>
+      <id>d2fe2bb0-b403-439a-b750-a5403f58a234</id>
+      <masked>false</masked>
+      <name>error_message</name>
+   </variable>
+</TestCaseEntity>

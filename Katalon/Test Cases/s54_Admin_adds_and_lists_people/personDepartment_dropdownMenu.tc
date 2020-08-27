@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>personDepartment_dropdownMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fad94ac-b37e-4e81-bfd1-f6192b328e35</testCaseGuid>
+   <variable>
+      <defaultValue>['CADCAM', 'CST', 'Nursing']</defaultValue>
+      <description></description>
+      <id>96911f51-6fa9-4f12-88a8-aa55f4e520c0</id>
+      <masked>false</masked>
+      <name>departmentList</name>
+   </variable>
+</TestCaseEntity>

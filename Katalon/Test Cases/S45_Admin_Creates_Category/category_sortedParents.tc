@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>category_sortedParents</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e63fd5e-d5ac-4708-8e1b-c28b0274f702</testCaseGuid>
+   <variable>
+      <defaultValue>['Complementary Function', 'New Category', 'NonInstructional Assignment', 'Student Contact', 'Assigned Contact Hours', 'Admin Tasks', 'Curriculum Development', 'Projects']</defaultValue>
+      <description></description>
+      <id>2963d105-0913-4b68-a1c8-bbc4ec0d4cee</id>
+      <masked>false</masked>
+      <name>category_item</name>
+   </variable>
+</TestCaseEntity>

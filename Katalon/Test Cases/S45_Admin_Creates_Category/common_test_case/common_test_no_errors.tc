@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Common test case that no error messages are displayed</description>
+   <name>common_test_no_errors</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c65e50e-dd4d-446d-af48-8cbfb57a8dff</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logout_display</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c20c23c-d820-4740-b1ac-e494e8971710</testCaseGuid>
+   <variable>
+      <defaultValue>['/reports', '/calendar', '/administration', '/about']</defaultValue>
+      <description>Lits of all the routes</description>
+      <id>4d6d51fb-d5d2-46a5-85ad-e8b266bc406f</id>
+      <masked>false</masked>
+      <name>urls</name>
+   </variable>
+</TestCaseEntity>

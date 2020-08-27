@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>category_descriptionLength_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17c9f4ad-e65d-4ab2-9695-c93ab24f7d23</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59f75fcb-62b7-48b4-aa31-1e641435a2cd</id>
+      <masked>false</masked>
+      <name>valid_desc_min</name>
+   </variable>
+   <variable>
+      <defaultValue>'This description describes a valid Category'</defaultValue>
+      <description></description>
+      <id>88cf672f-5600-4924-b2e5-2143860c8b76</id>
+      <masked>false</masked>
+      <name>valid_desc_valid</name>
+   </variable>
+</TestCaseEntity>

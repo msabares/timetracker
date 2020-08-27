@@ -1,0 +1,17 @@
+.classpath
+.project
+console.properties
+/.settings
+/bin
+/Checkpoints
+/Data Files
+/Drivers
+/Include
+/Keywords
+/Libs
+/Plugins
+/Profiles
+/Reports
+/settings
+/Test Listeners
+

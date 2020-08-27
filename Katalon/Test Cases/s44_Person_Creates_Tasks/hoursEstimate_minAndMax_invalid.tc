@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test invalid boundary cases for validation messages</description>
+   <name>hoursEstimate_minAndMax_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>315e5a5c-8d74-42f0-ab26-e4ee4087519e</testCaseGuid>
+   <variable>
+      <defaultValue>'Hours Estimate must be a number between 1 and 1000000.'</defaultValue>
+      <description></description>
+      <id>3d18f6f1-a3a8-4396-ab36-467747959741</id>
+      <masked>false</masked>
+      <name>error_message</name>
+   </variable>
+   <variable>
+      <defaultValue>['-1', '-0.01', '1000001', '1000000.01']</defaultValue>
+      <description>Values to test the upper and lower limit using whole and float numbers</description>
+      <id>eb758b27-bc96-4b9a-a761-9225b12759eb</id>
+      <masked>false</masked>
+      <name>hours_array</name>
+   </variable>
+</TestCaseEntity>

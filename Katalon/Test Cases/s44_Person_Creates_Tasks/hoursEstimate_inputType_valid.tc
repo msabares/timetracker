@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hours estimate can accept floats and ints, verify that it handles int/float conversion properly through validation</description>
+   <name>hoursEstimate_inputType_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23f12e3f-9606-491c-b200-c4376c87f005</testCaseGuid>
+   <variable>
+      <defaultValue>['5', '24.5', '05.50', '30.679']</defaultValue>
+      <description></description>
+      <id>00a71f20-dc34-458d-a91b-aec0f67f6a62</id>
+      <masked>false</masked>
+      <name>hours_array</name>
+   </variable>
+</TestCaseEntity>

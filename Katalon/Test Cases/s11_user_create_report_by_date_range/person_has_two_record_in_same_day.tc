@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>person_has_two_record_in_same_day</name>
+   <tag></tag>
+   <comment>drag the bottom edge of the event element to downside 150px, wait 5 second for API response</comment>
+   <testCaseGuid>1d95a285-fba1-4c6a-91b7-faca458032a0</testCaseGuid>
+</TestCaseEntity>

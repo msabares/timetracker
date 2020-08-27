@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>personCategory_modalDefaultValues</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2534cb9-14d3-4ab6-a4b1-3a4126deddcb</testCaseGuid>
+   <variable>
+      <defaultValue>['CADCAM', 'CST', 'Department', 'Nursing', 'Sask Polytech']</defaultValue>
+      <description></description>
+      <id>01149183-a058-454f-a91f-85c0fb626f23</id>
+      <masked>false</masked>
+      <name>valid_categories</name>
+   </variable>
+   <variable>
+      <defaultValue>'Create Member Grouping'</defaultValue>
+      <description></description>
+      <id>31ff63e1-7f7f-445f-bad8-9e37c559e492</id>
+      <masked>false</masked>
+      <name>header_text</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,19 @@
+<<<<<<< HEAD:Katalon/Test Cases/viewCalendarTestCase.tc
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>viewCalendarTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c19ef8b0-65b1-4886-9489-52de33dbdc04</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TaskItem All Tasks Pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fc70bce-6945-40a8-916a-26ee4a203464</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> master_v2:katalon/pmg-ui/Test Cases/S50 Task List/TaskItem All Tasks Pass.tc

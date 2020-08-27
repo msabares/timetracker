@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>personEmploymentStatus_dropdownMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>271baac1-5f9e-48be-88e0-1592e1e492bf</testCaseGuid>
+   <variable>
+      <defaultValue>['Full Time', 'Part Time', 'Casual', 'On Leave']</defaultValue>
+      <description></description>
+      <id>609ebe7b-8b07-486c-b2b9-51a970e83848</id>
+      <masked>false</masked>
+      <name>currentStatusList</name>
+   </variable>
+</TestCaseEntity>

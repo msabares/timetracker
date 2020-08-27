@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dragNdrop to create timesheetRecord</name>
+   <tag></tag>
+   <comment>S 46: Person add timesheetRecord
+Go to Calendar webpage, refresh the page to show task component and calendar component
+Drag the first task element from task list, drop it to page positon with 300px right, 300px down offset from the task bar element. Wait 5 second for API response and Component update.
+drag the bottom edge of the event element to downside 150px, wait 5 second for API response
+refresh the page to see if the record event has been created and remained on the page.</comment>
+   <testCaseGuid>d17ca197-fbc6-4a6f-b4cd-3e8da2985618</testCaseGuid>
+</TestCaseEntity>

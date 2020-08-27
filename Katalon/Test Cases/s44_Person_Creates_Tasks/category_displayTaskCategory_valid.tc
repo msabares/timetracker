@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Person expands category dropdown, which displays all valid tasks
+Verifies that all categories are displayed
+Verifies that no error messages are present</description>
+   <name>category_displayTaskCategory_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1af66b7-c36e-40c8-adb5-fbbfaa6bc1d4</testCaseGuid>
+   <variable>
+      <defaultValue>['Admin Tasks', 'Assigned Contact Hours', 'Complementary Function', 'Curriculum Development', 'NonInstructional Assignment', 'Projects', 'Student Contact']</defaultValue>
+      <description></description>
+      <id>a990ffa4-105a-4bd3-bfdb-55b8a55379ef</id>
+      <masked>false</masked>
+      <name>category_names</name>
+   </variable>
+</TestCaseEntity>

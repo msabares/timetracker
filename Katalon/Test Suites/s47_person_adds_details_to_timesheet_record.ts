@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>s47_person_adds_details_to_timesheet_record</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>7bc4c52a-cee6-48f2-8fde-582a6b36049e</testSuiteGuid>
+   <testCaseLink>
+      <guid>8334a9fd-7a61-4b05-a7b9-c0f8eabac45a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/s47_user_edits_timesheet_record/editRecord_editMode</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>afdf498d-3d44-423f-802a-6f1ce54addfa</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>de0f2016-82c2-4e0a-a797-3dcceaafb0f0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/s47_user_edits_timesheet_record/editRecord_inputs_invalid</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>10a56663-5bdb-465b-9f36-91989eed67be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/s47_user_edits_timesheet_record/editRecord_inputs_valid</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2c32ec4a-7263-43c5-ada0-e4004d050fa4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/s47_user_edits_timesheet_record/editRecord_save_invalid</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6e031e5f-2977-4473-bfb6-b77b7a86deeb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/s47_user_edits_timesheet_record/editRecord_save_valid</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6c98b50a-8ca9-40ef-bf93-74a582e98884</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9eba949c-000a-4e3a-bb4d-18868b7864cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ae54195f-f1e4-49db-af52-6fd051ad7927</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4e56a821-ddfe-4098-ada7-355af6a157bf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

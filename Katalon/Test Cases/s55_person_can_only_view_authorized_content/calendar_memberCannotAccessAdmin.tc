@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>calendar_memberCannotAccessAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>284f1915-e6af-4b54-98c7-675c0d2cd55a</testCaseGuid>
+</TestCaseEntity>

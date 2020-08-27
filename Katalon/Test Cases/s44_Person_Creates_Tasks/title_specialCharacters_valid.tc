@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Validation for the Title Field to accept the following special characters: ( ) _ . , : ' /</description>
+   <name>title_specialCharacters_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b22b2287-6a00-4ad5-ba26-baf198d9d33e</testCaseGuid>
+   <variable>
+      <defaultValue>['Home-Work', 'Marking', 'Back-end: Development (1)', 'Hello World', 'Wake_up!', 'Story.', 'Yes/No', 'No, you']</defaultValue>
+      <description></description>
+      <id>b3cd72be-750e-4352-93bd-ae01aa172eb7</id>
+      <masked>false</masked>
+      <name>input_values</name>
+   </variable>
+</TestCaseEntity>

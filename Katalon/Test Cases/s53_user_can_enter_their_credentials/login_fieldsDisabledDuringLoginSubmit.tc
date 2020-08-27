@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_fieldsDisabledDuringLoginSubmit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad95d492-513e-48cc-b85c-3b44714c79e4</testCaseGuid>
+</TestCaseEntity>

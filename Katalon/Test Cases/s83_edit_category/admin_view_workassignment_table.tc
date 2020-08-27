@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>admin_view_workassignment_table</name>
+   <tag></tag>
+   <comment>verity the table appeared
+get the heads of the table
+get the rows of the table
+verify the heads texts equal to heads list variable
+verify the text of each cell in each rows equals to items in the defined variable list</comment>
+   <testCaseGuid>4a2c8087-8e09-4c5e-9faa-faf9742d60f8</testCaseGuid>
+   <variable>
+      <defaultValue>['Work Assignment', 'Parent Work Category', 'Description']</defaultValue>
+      <description></description>
+      <id>a5cd05ce-2f82-4bfd-be52-1dac5da97b5a</id>
+      <masked>false</masked>
+      <name>tableHeads</name>
+   </variable>
+   <variable>
+      <defaultValue>['Complementary Function', '', 'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.']</defaultValue>
+      <description></description>
+      <id>0580559d-3bf1-4a59-a699-b14908235714</id>
+      <masked>false</masked>
+      <name>row1</name>
+   </variable>
+   <variable>
+      <defaultValue>['NonInstructional Assignment', '', 'Elit, sed do eiusmod tempor incididunt ut labore sit aspernatur aut odit aut fugit, sed quia consequuntur.']</defaultValue>
+      <description></description>
+      <id>e7c38fcb-ee92-45fc-90ff-80d497dd7e4c</id>
+      <masked>false</masked>
+      <name>row2</name>
+   </variable>
+   <variable>
+      <defaultValue>['Student Contact', '', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.']</defaultValue>
+      <description></description>
+      <id>772b9b44-7a85-450d-8e53-029f09bc9e3a</id>
+      <masked>false</masked>
+      <name>row3</name>
+   </variable>
+   <variable>
+      <defaultValue>['Assigned Contact Hours', 'Student Contact', 'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.']</defaultValue>
+      <description></description>
+      <id>a37b3637-d519-4e08-8bca-5b0cfcfeea89</id>
+      <masked>false</masked>
+      <name>row4</name>
+   </variable>
+   <variable>
+      <defaultValue>['Admin Tasks', 'Complementary Function', 'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.']</defaultValue>
+      <description></description>
+      <id>fb753823-c6eb-49ff-9d06-4e3e2d8f18b5</id>
+      <masked>false</masked>
+      <name>row5</name>
+   </variable>
+   <variable>
+      <defaultValue>['Curriculum Development', 'NonInstructional Assignment', 'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.']</defaultValue>
+      <description></description>
+      <id>07651a05-7843-45e2-a710-2d3ded699080</id>
+      <masked>false</masked>
+      <name>row6</name>
+   </variable>
+   <variable>
+      <defaultValue>['Projects', 'NonInstructional Assignment', 'Integer sit amet tortor a ante aliquet volutpat blandit at leo.']</defaultValue>
+      <description></description>
+      <id>907dd7a6-bc76-477b-8540-62bd8e685303</id>
+      <masked>false</masked>
+      <name>row7</name>
+   </variable>
+</TestCaseEntity>

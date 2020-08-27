@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validation on creating a new test with all valid inputs and ensure we are seeing confirmation UI elements after a successful submit.</description>
+   <name>submit_addingTask_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e174f41a-5d6f-41c5-bb61-c9a1792ffa05</testCaseGuid>
+   <variable>
+      <defaultValue>'Making New Course'</defaultValue>
+      <description></description>
+      <id>49287e84-4106-45ba-b437-fd2341110441</id>
+      <masked>false</masked>
+      <name>input_title</name>
+   </variable>
+   <variable>
+      <defaultValue>'20.0'</defaultValue>
+      <description></description>
+      <id>8dfebccd-ddc3-46d8-b276-76d52fbc8d60</id>
+      <masked>false</masked>
+      <name>input_estimate</name>
+   </variable>
+</TestCaseEntity>

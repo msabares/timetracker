@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>admin_edit_workassignment_item_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>206a5b33-efcc-47cc-89e2-ff8d23be50f4</testCaseGuid>
+   <variable>
+      <defaultValue>'New Category'</defaultValue>
+      <description></description>
+      <id>be184624-44c9-4160-b2ae-f7db49bffde9</id>
+      <masked>false</masked>
+      <name>valid_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'A new category for SPFA'</defaultValue>
+      <description></description>
+      <id>0633bdbd-fcf7-4ad3-8d4e-f00ae82584bd</id>
+      <masked>false</masked>
+      <name>valid_description</name>
+   </variable>
+</TestCaseEntity>

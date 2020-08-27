@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>personFirstAndLastName_format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a046373-f41f-4003-8f72-5b683f348989</testCaseGuid>
+   <variable>
+      <defaultValue>['j', 'larry-The-Third', 'Connor O\'hagen', 'Robert Jackson', 'Bob-Jack', 'bob']</defaultValue>
+      <description></description>
+      <id>cdc74a70-cb4b-4b4a-b823-8b0a62b835d1</id>
+      <masked>false</masked>
+      <name>validFirstAndLastNameArray</name>
+   </variable>
+   <variable>
+      <defaultValue>['rad_dude*', 'Tommy;)&amp;Smiley', 'S@b@r3$', '$smith']</defaultValue>
+      <description></description>
+      <id>25242fd8-f28d-4b3c-a0c5-38a1ae378011</id>
+      <masked>false</masked>
+      <name>invalidFirstAndLastNameArray</name>
+   </variable>
+   <variable>
+      <defaultValue>'M'</defaultValue>
+      <description></description>
+      <id>a4c45b2b-3047-4acf-8037-0f59e63b1bf0</id>
+      <masked>false</masked>
+      <name>RepeatingName</name>
+   </variable>
+   <variable>
+      <defaultValue>['', ' ']</defaultValue>
+      <description></description>
+      <id>170a657b-e525-4bef-80e1-fefe64fc487f</id>
+      <masked>false</masked>
+      <name>emptyFirstAndLastNameArray</name>
+   </variable>
+</TestCaseEntity>

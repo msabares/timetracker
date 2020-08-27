@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>personScheduledHours_format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>577ed9cb-0f93-4c1c-be42-c676aca53a97</testCaseGuid>
+   <variable>
+      <defaultValue>['20', '37.5', '0']</defaultValue>
+      <description></description>
+      <id>1817584d-62d6-4659-8321-9055af726460</id>
+      <masked>false</masked>
+      <name>validHours</name>
+   </variable>
+   <variable>
+      <defaultValue>['40', '37.6', '-1', '-37.5']</defaultValue>
+      <description></description>
+      <id>670d51c2-5a27-4e08-bf57-ac339178e76b</id>
+      <masked>false</masked>
+      <name>invalidHours</name>
+   </variable>
+</TestCaseEntity>

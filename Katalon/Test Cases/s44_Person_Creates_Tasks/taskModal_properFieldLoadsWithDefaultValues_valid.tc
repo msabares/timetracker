@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validation to ensure all elements exist when the modal first opens.</description>
+   <name>taskModal_properFieldLoadsWithDefaultValues_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fe91489-23c3-4e0d-b3b2-882153eb3114</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f94116c-af85-4e70-b558-89f25bc62717</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

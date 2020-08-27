@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test validation for invalid datatypes</description>
+   <name>hoursEstimate_inputType_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bdb1376-2a32-48df-b185-d862f37e84c7</testCaseGuid>
+   <variable>
+      <defaultValue>['three', '2O.00', '1 hour', '1 30', '5point2', '']</defaultValue>
+      <description></description>
+      <id>3f9cb061-f0b3-4e23-a5fe-fcf50ac3ccf1</id>
+      <masked>false</masked>
+      <name>hours_array</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hours Estimate must be a number between 1 and 1000000.'</defaultValue>
+      <description></description>
+      <id>2d936075-f027-4221-8503-68027486b033</id>
+      <masked>false</masked>
+      <name>error_message</name>
+   </variable>
+</TestCaseEntity>

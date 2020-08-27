@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test validation to ensure if any of the fields are invalid, a modal error is presented and is unable to proceed with the creation of task.</description>
+   <name>submit_addingTask_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2e3989a-40e1-4f58-b91e-62882872a58f</testCaseGuid>
+   <variable>
+      <defaultValue>'Don\'t @ me!'</defaultValue>
+      <description></description>
+      <id>3cc2e6ca-5506-4a19-9a5e-4da37cb3c761</id>
+      <masked>false</masked>
+      <name>input_title_invalid</name>
+   </variable>
+   <variable>
+      <defaultValue>'5Point2'</defaultValue>
+      <description></description>
+      <id>739a486c-7d8b-46ab-acd8-c8dff11b1d0d</id>
+      <masked>false</masked>
+      <name>input_estimate_invalid</name>
+   </variable>
+   <variable>
+      <defaultValue>'Making New Course'</defaultValue>
+      <description></description>
+      <id>4c9e2016-0799-42fd-8a7e-f9c2aa56576a</id>
+      <masked>false</masked>
+      <name>input_title_valid</name>
+   </variable>
+   <variable>
+      <defaultValue>'20.0'</defaultValue>
+      <description></description>
+      <id>62469e97-081a-40d9-9df7-4b6daea28713</id>
+      <masked>false</masked>
+      <name>input_estimate_valid</name>
+   </variable>
+   <variable>
+      <defaultValue>'Oops! Please review your inputs.'</defaultValue>
+      <description></description>
+      <id>48ccecc3-7d28-436e-82cd-6147c7651781</id>
+      <masked>false</masked>
+      <name>error_message</name>
+   </variable>
+</TestCaseEntity>

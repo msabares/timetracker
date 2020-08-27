@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test that no Category is created when validation errors are present</description>
+   <name>category_addNew_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b57eb33-a319-4232-ac70-773d25c2521f</testCaseGuid>
+   <variable>
+      <defaultValue>'Inv@lid Category'</defaultValue>
+      <description></description>
+      <id>3f6b73f6-c489-4241-835e-120ff8fbbd1e</id>
+      <masked>false</masked>
+      <name>invalid_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'The category name is likely not going to work'</defaultValue>
+      <description></description>
+      <id>d29e94fa-846a-4d2c-8679-6dcfb3bb7b33</id>
+      <masked>false</masked>
+      <name>valid_description</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>category_modalDefaults</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cca9444-5756-42dc-942e-4d33aafca8f5</testCaseGuid>
+   <variable>
+      <defaultValue>'Default Title Test!@#'</defaultValue>
+      <description></description>
+      <id>264217e5-72c0-4559-bebc-36705194652c</id>
+      <masked>false</masked>
+      <name>invalid_title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Description Test'</defaultValue>
+      <description></description>
+      <id>9c7a483b-a693-4c6e-add9-891712cbe4d5</id>
+      <masked>false</masked>
+      <name>valid_description</name>
+   </variable>
+</TestCaseEntity>
